@@ -5,10 +5,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzlthxp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=qzlthxp&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzlthxp&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph：
 
 ![](https://activity-graph.herokuapp.com/graph?username=qzlthxp&theme=react-dark)
+ -->
