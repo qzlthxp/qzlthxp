@@ -11,5 +11,5 @@
 
 ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=qzlthxp&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=qzlthxp)
  -->
